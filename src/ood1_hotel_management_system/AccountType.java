@@ -1,4 +1,4 @@
-package odd1_hotel_management_system;
+package ood1_hotel_management_system;
 
 public enum AccountType {
     MEMBER,
