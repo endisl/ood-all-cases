@@ -1,10 +1,10 @@
 package ood2_airline_management_system;
 
 public enum ReservationStatus {
-    REQUESTED,
-    PENDING,
-    CONFIRMED,
-    CHECKED_IN,
+    ABANDONED,
     CANCELED,
-    ABANDONED
+    CHECKED_IN,
+    CONFIRMED,
+    PENDING,
+    REQUESTED
 }
