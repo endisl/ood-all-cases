@@ -5,15 +5,15 @@ import java.util.List;
 public class ShoppingCart {
     private List<Item> items;
 
-    public boolean addItem() {
+    public boolean addItem(Item item) {
         //...
     }
 
-    public boolean removeItem() {
+    public boolean removeItem(Item item) {
         //...
     }
 
-    public boolean updateItem() {
+    public boolean updateItem(Item item, int quantity) {
         //...
     }
 
